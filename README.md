@@ -28,7 +28,7 @@ It's a CRUD application where you can manage your articles.
     - php artisan serve
     - npm run dev
 
-For you to create or manage articles you need to be a logged in user. db:seed command seeds fake data into the database and creates a user.
+For you to create or manage articles you need to be a logged in user. db:seed command seeds fake data into the database and creates an user.
 
 user credentials:
 - email = admin@admin.com
