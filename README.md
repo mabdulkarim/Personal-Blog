@@ -29,6 +29,7 @@ It's a CRUD application where you can manage your articles.
     - npm run dev
 
 For you to create or manage articles you need to be a logged in user. db:seed command seeds fake data into the database and creates a user.
+
 user credentials:
-    - email = admin@admin.com
-    - password = password
+- email = admin@admin.com
+- password = password
